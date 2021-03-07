@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/taffer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://taffer.ca
+  * I am taffer (https://keybase.io/taffer) on keybase.
+  * I have a public key with fingerprint 921E 02D5 642A 3556 D4A8  36C4 D35A B433 3A1F 44F2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012039e42c420e8e383d4000f42ec79b1b4e543808e53128fb0fd713cd288d3c6b640a",
+      "fingerprint": "921e02d5642a3556d4a836c4d35ab4333a1f44f2",
+      "host": "keybase.io",
+      "key_id": "d35ab4333a1f44f2",
+      "kid": "0101be7e43e3cd09914bf4a9cc67afdf5c390cf21124b3237f41e9d1f7658f23b05e0a",
+      "uid": "e22ddaf9b633436ea6bbed292f142919",
+      "username": "taffer"
+    },
+    "service": {
+      "hostname": "taffer.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1565383840,
+  "expire_in": 157680000,
+  "prev": "47e56e05943b74efc0a2a506e7e3799c400569461dfa186cbce1b7111d071baa",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNvAnicbZJ7UFRVHMd3iWUERnJEE5vUugPT0K7rPfece+/epWwqyEZBHa3+MHZ2
+7uNcuAG7yz54b4HkaAMSIVQ8BMF0CEqeiYPiQNgDcExxilLLB4mYQrC+CBzpLpN/
+NNNfZ87vfL+f8z2/3zm1+AlNiPb8jk5oXhPr0w717fNoLAmXDuQSgl3KJsy5RApe
+WHCqhF1ua4oiEWaCBBQJOYwoEVEkNmFoghIiSVJGFBZZTgACwjSCJtKEaQgokyyQ
+ssQCKEqUySRBkREYRPKEgZAVWxJ2OpyKza1iOQpgkpJoBlE8pGlGQrwJMiKSIM0L
+CELIAxkhmVKNyXaX36GGE3gXNip2taZurAvx/kf/ODcJBMxiBLGaheQ4gAQZ8Zwo
+MiwvSzItQo4UZQoACgmQgqyMAOYkILMMbZIpKJA0XsjtWcBhipIkXuYEBkIEGcwz
+goAliqNkgCgOcH6hCzttfBpW1W5elrGT8BoItZahiNjfVv87/nNuFP18h9Putov2
+VLWc7HY7XGa/zZ3t8OsysWD9l2AVFJuktlB1ZGCnS7HbCDNQlaJb8SMBzdDqaEyI
+NBA4y6E4sVXxK2iWManTIv334AwViVhMM5ikOQQFFmFZJHmKp0lGbRVkOU5UZ0sz
+HGKAJPPAxIiCiIHAAgAkkgUC70/swuk2u8pm1Zx8ksp0KUk23u1xYsL7TV9ioEYb
+ognSBfj/liYkeMnjH5diXKIpMW6urtIPfqaxJFfF+Y63vnvm0+WxtQVvfNBVN1NS
+cmh7+4nK3Ftbh4Mbim6fTrhx0uteH+oLDNgWXxm9pSHJ1zb6oHzt8TkDDe+ak8bu
+RcffjGVWjW6DhdbI0/KXU3U/XtS1sff+aD27ovlR/fc9bY26wOlbzd3dtWc7Prxz
+aOS56vqct+WKdTkHz8+Xrf8bBlXsGn5nIEga+iRfHxf2/GDd7FPz1732obrMHdUT
+OxNmt3SHRVhuLG86+PR3gsOT0n00LfzjwMmivNXHMuturrRa8hvfv93hCOXH7ftr
+DO3QSGztSe/q+fVCTtracne/r+X+BW5RTpR+aVyMbmXn5dczv43piXowc8SWsSxC
+V7ExfOLP4t9L4i5H8IWRBe1XNBbGNze1uj0qY1MhcXJvFf2a5q2Or6+OsQMD50Jm
+Dvzi1e7OArk/b2i+Pp7X2lb6RW2v9lrnhr75gPG88o3FlTtno19+dcUzDXEh+d5n
+Dz/svzNcOjSXXuD+PKgre9kqcaK9rB44rmZ5FFvTo9Fg6jfile51HU8uUgYv5YH3
+ks8c1u+rGVlTcyy1peyj8FPTY1817unfPznWtSdZn//TkdaLiZUvtEwucW5KfNi6
+VLP5Te1dQ9HASK+3oveH+0d3nfNy00qXt2m7Ob7ZurdU9FwJC4u4FjkVYyl+sf0v
+/UvlwuIT9o683cZQ3T+Yscex
+=gCv7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/taffer
+
+==================================================================
+
