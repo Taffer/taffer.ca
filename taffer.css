@@ -9,15 +9,25 @@
 
 /* Fonts */
 .font-mono {
-	font-family: "Inconsolata", "Menlo", "Consolas", monospace;
+	font-family: "Inconsolata", "Menlo", "Consolas", "Liberation Mono", "Ubuntu mono", monospace;
 }
 
 .font-taffer {
-	font-family: "Papyrus", "VTC Goblin Hand", "Devroye", fantasy;
+	font-family: "Papyrus", "VTC Goblin Hand", "Devroye", "Liberation Serif", "Ubuntu", fantasy;
 }
 
 .font-small {
     font-size: 0.5em;
+}
+
+h1 {
+    font-size: 96px;
+    font-weight: bold;
+}
+
+p,li {
+    font-size: 24px;
+    font-weight: bold;
 }
 
 /* Positioning */
@@ -53,14 +63,16 @@
 
 /* Backgrounds */
 .taffer-bg {
-	background-image: url('t2-uphigh.jpg');
+	background-image: url('taffer-ronos-512x512.png');
 	background-repeat: no-repeat;
+    background-position: right top;
 }
 
 /* Overrides for tiny screens. */
 @media only screen and (max-device-width: 1024px) {
 	.taffer-bg {
-		background-image: url('t2-uphigh-small.jpg');
+		background-image: url('taffer-ronos-256x256.png');
 		background-repeat: no-repeat;
+        background-position: right top;
 	}
 }
